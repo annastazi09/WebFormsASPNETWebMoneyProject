@@ -1,0 +1,313 @@
+﻿BODY {
+	WIDTH: 100%; FONT-FAMILY: Tahoma, Arial, Verdana, sans-serif; BACKGROUND: #f8f8f8;
+	background-color: White; font-family: Verdana, Sans-Serif; font-size: 13px; color: #444; 
+}
+.content_div {
+	BORDER-BOTTOM: #cccccc 1px solid; POSITION: relative; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff; WIDTH: 670px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.content_down {
+	WIDTH: 669px
+}
+.choice_block {
+	POSITION: absolute; WIDTH: 160px; BOTTOM: 20px; RIGHT: 120px
+}
+.ft_corner {
+	BORDER-BOTTOM: #cccccc 1px solid; POSITION: relative; BORDER-LEFT: #cccccc 1px solid; MARGIN-TOP: 5px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+.desc_pay_block {
+	MARGIN-LEFT: 240px
+}
+.button150 {
+	BACKGROUND-IMAGE: url(img_template_steps/buttons/button150.gif); BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND-COLOR: #ffffff; MARGIN-TOP: 5px; WIDTH: 150px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-POSITION: 0px 0px; HEIGHT: 25px; COLOR: #333333; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px
+}
+.button280 {
+	BACKGROUND-IMAGE: url(img_template_steps/buttons/button150.gif); BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND-COLOR: #ffffff; MARGIN-TOP: 5px; WIDTH: 150px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-POSITION: 0px 0px; HEIGHT: 25px; COLOR: #333333; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: 0px
+}
+.button150:hover {
+	BACKGROUND-POSITION: 0px 25px
+}
+.ltc {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner10_01.gif); TOP: -1px; LEFT: -1px
+}
+.rtc {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner10_02.gif); TOP: -1px; RIGHT: -1px
+}
+.ldc {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner10_03.gif); BOTTOM: -1px; LEFT: -1px
+}
+.rdc {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner10_04.gif); BOTTOM: -1px; RIGHT: -1px
+}
+.ltc {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.rtc {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.ldc {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.rdc {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.ltc1 {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner_grey10_01.gif); TOP: -1px; LEFT: -1px
+}
+.rtc1 {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner_grey10_02.gif); TOP: -1px; RIGHT: -1px
+}
+.ldc1 {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner_grey10_03.gif); BOTTOM: -1px; LEFT: -1px
+}
+.rdc1 {
+	BACKGROUND-IMAGE: url(img_template_steps/corner/corner_grey10_04.gif); BOTTOM: -1px; RIGHT: -1px
+}
+.ltc1 {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.rtc1 {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px;
+	left: 661px;
+}
+.ldc1 {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.rdc1 {
+	POSITION: absolute; WIDTH: 10px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.button_testimonial {
+	BORDER-BOTTOM: #cc0000 5px solid; BORDER-LEFT: #cc0000 5px solid; BORDER-TOP: #cc0000 5px solid; BORDER-RIGHT: #cc0000 5px solid
+}
+#live {
+	VISIBILITY: hidden
+}
+.img {
+	border: solid 1px #aaa;
+}
+H5 {
+	TEXT-INDENT: 0px; FONT-FAMILY: Tahoma, Arial, Helvetica; COLOR: #cc0000; FONT-SIZE: 13pt; FONT-WEIGHT: bold
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #834283
+}
+A:hover {
+	COLOR: #cc0000
+}
+A:active {
+	COLOR: #834283
+}
+
+.compp2 {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #1967b6; FONT-SIZE: 14pt; FONT-WEIGHT: bold; background-color: #f5f5f5;
+}
+.compp3 {
+	TEXT-INDENT: 0cm; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #357a0a; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.compp4 {
+	TEXT-INDENT: 0cm; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: Red; FONT-SIZE: 16pt; FONT-WEIGHT: bold
+}
+.compp5 {
+	TEXT-INDENT: 0cm; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; color: #4182d3; FONT-SIZE: 16pt; FONT-WEIGHT: bold
+}
+.black {
+	COLOR: #000000
+}
+.compp1 {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #cc0000; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.demo {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BACKGROUND-COLOR: #e6e6fa; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+.ex {
+	BORDER-BOTTOM: #b8b8b7 1px solid; BORDER-LEFT: #b8b8b7 1px solid; BORDER-TOP: #b8b8b7 1px solid; BORDER-RIGHT: #b8b8b7 1px solid
+}
+P.compare2 {
+	TEXT-INDENT: 0cm; MARGIN: 1px 5px 5px; FONT: 10px Verdana, Arial, Helvetica, sans-serif
+}
+P.desc {
+	TEXT-ALIGN: left; TEXT-INDENT: 0cm; MARGIN: 10px; FONT: 10pt Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	TEXT-INDENT: 0.9cm; MARGIN: 15px 30px; FONT: 11pt Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+P.curs2 {
+	TEXT-INDENT: 0cm; MARGIN: 15px; FONT: 11pt Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.f6 {
+	BACKGROUND-COLOR: #f6f6f6
+}
+.f6 P {
+	MARGIN: 3px; FONT: bold 9pt Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #000033
+}
+.prog H1 {
+	MARGIN: 15px; FONT: bold 16pt Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+P.curs2 SPAN.m {
+	FONT: bold 10pt Tahoma, Verdana; COLOR: gray
+}
+.red {
+	COLOR: #cc0000
+}
+.green {
+	COLOR: #357a0a
+}
+.blue {
+	COLOR: #1967b6
+}
+.orange {
+	COLOR: #f46523
+}
+H1 {
+	TEXT-ALIGN: center; MARGIN: 25px; FONT: bold 20pt Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #1967b6
+}
+H2 {
+	TEXT-ALIGN: center; MARGIN: 25px; FONT: bold 15pt Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	MARGIN: 5px; FONT: bold 13px Verdana, Arial, Helvetica, sans-serif; COLOR: #cc0000
+}
+H3.count {
+	MARGIN: 20px; FONT: bold 13px Verdana, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+.lesson {
+	MARGIN-TOP: 20px; MARGIN-BOTTOM: 5px; COLOR: #cc0000; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.lesson_img {
+	BORDER-BOTTOM: gray 0px solid; BORDER-LEFT: gray 0px solid; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 3px; BORDER-TOP: gray 0px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: gray 0px solid
+}
+.lesson_img2 {
+	BORDER-BOTTOM: gray 0px solid; BORDER: gray 1px solid; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 3px; MARGIN-RIGHT: 10px;
+}
+.compare2 {
+	BORDER-BOTTOM: #d8d8d8 1px solid; BORDER-LEFT: #d8d8d8 1px solid; BACKGROUND-COLOR: #ffffff; MARGIN: 30px; BORDER-TOP: #d8d8d8 1px solid; BORDER-RIGHT: #d8d8d8 1px solid
+}
+.compare2 P {
+	TEXT-ALIGN: left; TEXT-INDENT: 0cm; MARGIN: 10px
+}
+.compare2 TD.f6 P {
+	TEXT-ALIGN: center; TEXT-INDENT: 0cm; MARGIN: 5px
+}
+.compare2 TD {
+	BORDER-BOTTOM: #f1f1f1 1px solid; BORDER-LEFT: #f1f1f1 1px solid; BORDER-TOP: #f1f1f1 1px solid; BORDER-RIGHT: #f1f1f1 1px solid
+}
+.compare2 P.compp1 {
+	TEXT-ALIGN: center
+}
+.compare2 P.compp2 {
+	TEXT-ALIGN: center
+}
+.les_col {
+	COLOR: #000000;
+}
+P.les_e {
+	MARGIN: 10px 20px 60px
+}
+P.les_ecourse {
+	MARGIN: 10px 10px 70px
+}
+.number {
+	TEXT-ALIGN: center; MARGIN: 30px; FONT: bold 30px Verdana, Arial, Helvetica, sans-serif; COLOR:Silver; border: solid 1px Gray; width: 300px;
+}
+.number2 {
+	TEXT-ALIGN: center; MARGIN: 30px; FONT: bold 30px Verdana, Arial, Helvetica, sans-serif; COLOR:Silver; border: solid 1px Gray; width: 500px;
+}
+P.ps {
+	MARGIN-TOP: 20px; TEXT-INDENT: 0cm; MARGIN-LEFT: 70px
+}
+P.copy {
+	TEXT-ALIGN: center; MARGIN: 2px; FONT: 10px Verdana, Arial, Helvetica, sans-serif; COLOR: #000000
+}
+P.copy A {
+	COLOR: #000000
+}
+.testimonial 
+{
+	text-shadow: grey 0.05em 0.05em 0.05em;
+	border-bottom:2px solid #eee;
+	border-right:2px solid #eee;
+	padding-bottom:2px;
+	padding-right:2px;
+	background:#ccc;
+	background-color: #ffffef;
+}
+.testimonial P 
+{
+	text-shadow: none;
+	TEXT-ALIGN: left; TEXT-INDENT: 0px; MARGIN: 10px; FONT-FAMILY: Courier New, Courier, Helvetica; FONT-SIZE: 11pt
+}
+.testimonial A 
+{
+	text-shadow: none;
+	FONT-FAMILY: Verdana; FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+HR {
+	MARGIN-TOP: 20px; WIDTH: 350px; MARGIN-BOTTOM: 20px; HEIGHT: 1px; COLOR: gray
+}
+.bonus_table {
+	BORDER: solid 5px #c6c6c6;
+}
+P.bonus {
+	TEXT-INDENT: 0cm; MARGIN: 5px; FONT-SIZE: 12px
+}
+.nd {
+	BORDER-BOTTOM: #f0f0f0 1px solid; BORDER-LEFT: #f0f0f0 1px solid; BACKGROUND-COLOR: #fbfbfb; MARGIN: 20px; BORDER-TOP: #f0f0f0 1px solid; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.ndc {
+	BORDER-BOTTOM: #f0f0f0 1px solid; BORDER-LEFT: #f0f0f0 1px solid; BACKGROUND-COLOR: #f9f9f9; MARGIN: 20px; BORDER-TOP: #f0f0f0 1px solid; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.prr {
+	COLOR: #666666; FONT-SIZE: 11px
+}
+.ndw {
+	BORDER-BOTTOM: #f0f0f0 1px solid; BORDER-LEFT: #f0f0f0 1px solid; MARGIN: 20px; BORDER-TOP: #f0f0f0 1px solid; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.ndw P {
+	TEXT-INDENT: 0cm
+}
+.nd P {
+	TEXT-INDENT: 0cm
+}
+.bonus_table P {
+	TEXT-INDENT: 0cm
+}
+P.popov2 {
+	TEXT-INDENT: 0cm
+}
+.lll {
+	TEXT-DECORATION: underline
+}
+.listt {
+	BORDER-BOTTOM: #cccccc 0px solid; BORDER-LEFT: #cccccc 0px solid; PADDING-BOTTOM: 7px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; MARGIN-LEFT: 20px; BORDER-TOP: #cccccc 0px solid; MARGIN-RIGHT: 20px; BORDER-RIGHT: #cccccc 0px solid; PADDING-TOP: 7px
+}
+.listt TD {
+	BORDER-BOTTOM: #c9c9c9 1px solid; BORDER-LEFT: #c9c9c9 1px solid; BORDER-TOP: #c9c9c9 1px solid; BORDER-RIGHT: #c9c9c9 1px solid
+}
+.listt H2 {
+	MARGIN: 3px; FONT: bold 14pt Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+.listt P {
+	TEXT-ALIGN: center; TEXT-INDENT: 0cm; MARGIN: 5px 20px; FONT: 10pt Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+
+
+
+.order_img {
+	BORDER-BOTTOM: gray 0px solid; BORDER-LEFT: gray 0px solid; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 3px; BORDER-TOP: gray 0px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: gray 0px solid
+}
+
+.txtbx
+{
+	border:1px #888 solid;
+    width:115px;
+    height: 15px;
+    color:Blue;
+    font:12px Verdana, Geneva, sans-serif;
+    background-color:#fdfdfd;
+    padding-top: 0px;
+}
+
+.rollover a { border: none; width:130px; height:133px; background-repeat:no-repeat; display:block; BACKGROUND-IMAGE: url(img/skidka50.png); TOP: -1px; LEFT: -1px }
+.rollover a:hover { border: none; width:130px; height:133px; background-repeat:no-repeat;  BACKGROUND-IMAGE: url(img/skidka50active.png); TOP: -1px; LEFT: -1px }
